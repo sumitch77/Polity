@@ -24,10 +24,6 @@ let play1 = document.querySelector("#play1");
 let play2 = document.querySelector("#play2");       
 let play3 = document.querySelector("#play3") ;      
 let play4 = document.querySelector("#play4") ;      
-let play5 = document.querySelector("#play5") ;      
-let play6 = document.querySelector("#play6") ;      
-let play7 = document.querySelector("#play7") ;      
-let play8 = document.querySelector("#play8") ;      
 
 
     play1.addEventListener("click" , ()=>{
